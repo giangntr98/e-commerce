@@ -1,6 +1,4 @@
 target/
-mvnw
-mvnw.cmd
 .idea/
 .classpath
 .project
